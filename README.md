@@ -1,5 +1,6 @@
-iris-grib
-=========
+<h1 style="margin: 1em; text-align: center;">
+    iris-grib
+</h1>
 
 |Travis|_ |Coveralls|_
 
